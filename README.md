@@ -1,10 +1,15 @@
 # book-study
 개발 관련 도서를 읽고 정리 및 토의하는 레포입니다.
 
+## 스터디를 진행한 책 목록
+|                                                                                                                              토비의 스프링                                                                                                                               |                                                   헤드퍼스트 디자인패턴                                                   |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
+|                                                                           <img src="https://image.aladin.co.kr/product/1950/55/cover500/8960773417_2.jpg" width="400px" height="300px">                                                                            | <img src="https://image.aladin.co.kr/product/29089/24/cover500/k212837767_1.jpg" width="400px" height="300px">  |
+
 ## 스터디원
 | [<img src="https://github.com/hj-k66.png" width="150px">](https://github.com/hj-k66) | [<img src="https://github.com/a-young-kim.png" width="150px">](https://github.com/a-young-kim) | [<img src="https://github.com/sootudio.png" width="150px">](https://github.com/sootudio) | [<img src="https://github.com/gmelon.png" width="150px">](https://github.com/gmelon) | [<img src="https://github.com/limjongheok.png" width="150px">](https://github.com/limjongheok) |
-| :---: | :---: | :---: | :---: | :---: |
-| [김희정](https://github.com/hj-k66) | [김아영](https://github.com/a-young-kim) | [김수영](https://github.com/kswim57) | [현상혁](https://github.com/gmelon) | [임종혁](https://github.com/limjongheok) 
+|:------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
+|                           [김희정](https://github.com/hj-k66)                           |                             [김아영](https://github.com/a-young-kim)                              |                            [김수영](https://github.com/kswim57)                             |                           [현상혁](https://github.com/gmelon)                           |                             [임종혁](https://github.com/limjongheok)                              |
 
 ## 스터디 규칙
 ### 대면 스터디 전
