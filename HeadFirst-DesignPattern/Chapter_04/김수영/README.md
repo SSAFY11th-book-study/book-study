@@ -1,0 +1,2 @@
+4장 - 팩토리 패턴
+https://sootudio-programming.tistory.com/entry/%ED%97%A4%EB%93%9C%ED%8D%BC%EC%8A%A4%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-4%EC%9E%A5-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EB%B9%B5-%EA%B5%BD%EA%B8%B0-%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4
